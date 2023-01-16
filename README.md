@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EribaldoOliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, sou EribaldoOliveira
+- 👀 Estou interessado em conseguir meu primeiro emprego como programador
+- 🌱 Atualemente estou aprendendo Python e Worpress
+- 📫 Email: desenvolvedorwebst@gmail.com
+- Cel.: 79 98803 5219
 
 <!---
 EribaldoOliveira/EribaldoOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
