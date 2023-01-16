@@ -1,4 +1,4 @@
-- 👋 Olá, sou EribaldoOliveira
+- 👋 Olá, sou Eribaldo Oliveira
 - 👀 Estou interessado em conseguir meu primeiro emprego como programador
 - 🌱 Atualemente estou aprendendo Python e Worpress
 - 📫 Email: desenvolvedorwebst@gmail.com
