@@ -1,6 +1,6 @@
 - 👋 Olá, sou Eribaldo Oliveira
 - 👀 Estou interessado em conseguir meu primeiro emprego como programador
-- 🌱 Atualemente estou aprendendo Python e Worpress
+- 🌱 Atualemente estou desenvolvendo meu aprendizado em Python e Worpress
 - 📫 Email: desenvolvedorwebst@gmail.com
 - Cel.: 79 98803 5219
 
