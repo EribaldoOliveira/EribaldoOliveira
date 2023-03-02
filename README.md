@@ -1,6 +1,6 @@
 - 👋 Olá, sou Eribaldo Oliveira
 - 🌱 Desenvolvedor Front-End!
-- 👀 Foco em HTML, CSS, JavaScript e Wordpress.
+- 👀 Foco em HTML, CSS e JavaScript.
 - 📫 Email: desenvolvedorwebst@gmail.com
 - Cel.: 79 98803 5219
 
