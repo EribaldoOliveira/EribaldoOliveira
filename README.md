@@ -1,6 +1,6 @@
 - 👋 Olá, sou Eribaldo Oliveira
-- 👀 Estou interessado em conseguir meu primeiro emprego como programador
-- 🌱 Atualmente estou desenvolvendo meu aprendizado em HTML, CSS, JavaScript e Wordpress.
+- 🌱 Desenvolvedor Front-End!
+- 👀 Foco em HTML, CSS, JavaScript e Wordpress.
 - 📫 Email: desenvolvedorwebst@gmail.com
 - Cel.: 79 98803 5219
 
