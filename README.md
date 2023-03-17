@@ -13,10 +13,21 @@ You can click the Preview link to take a look at your changes.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
+<!--
 #
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eribaldooliveira&show_icons=true&theme=synthwave" width="49%"></img>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=eribaldooliveira&&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/></img>
+</div>   <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eribaldooliveira&layout=compact&langs_count=16&theme=blue-green"/>
+</div>-->
+
+-----------------------------------
+
+<div align='center'>
+  <img height="205rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eribaldooliveira&&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="205rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eribaldooliveira&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
+
+----------------------
 
 # Habilidades 📖
 
