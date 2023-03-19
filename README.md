@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eribaldooliveira)](https://git.io/streak-stats)
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 # Habilidades 📖
 
@@ -43,5 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 - Cel.: 79 9 8803 5219
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
