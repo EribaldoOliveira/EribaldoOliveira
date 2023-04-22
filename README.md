@@ -33,9 +33,6 @@ You can click the Preview link to take a look at your changes.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 
-
-  
-
 # Habilidades 📖
 
 <!--  ![HTML 5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=f45430&labelColor=0D1117)&nbsp;
@@ -60,4 +57,4 @@ You can click the Preview link to take a look at your changes.
 
 - Cel.: 79 9 8803 5219
 </div>
-  
+
