@@ -37,11 +37,11 @@ You can click the Preview link to take a look at your changes.
 
   
   
-<div align="center"> 
+<!---<div align="center"> 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eribaldooliveira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div>--->
 
 
 
