@@ -14,15 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 #
 
-
-
 <div align='center'>
 <img height="165rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eribaldooliveira&&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="165rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eribaldooliveira&layout=compact&langs_count=16&theme=blue-green"/>
   
 #
-
-
 
   
 <div align="center">
@@ -30,19 +26,13 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://streak-stats.demolab.com/?user=eribaldooliveira&theme=blue-green"/>
 </div>
 
-  
-  
-  
+   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
-  
-  
+    
 <!---<div align="center"> 
-
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eribaldooliveira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>--->
-
 
 
 # Habilidades 📖
@@ -60,22 +50,22 @@ You can click the Preview link to take a look at your changes.
 <!--Imagem Codando-->
 <img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">
 
-
   
   # Contato📥 
  
-<div align="left">
+
   <!--Linkedin-->
   
- <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>
- 
+ <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>   <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail">
+</a>
+ </div>
   <!--Gmail-->
 <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail">
 </a>
   
 
 - Cel.: 79 9 8803 5219
-</div>
+
 
 
   
