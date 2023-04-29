@@ -50,12 +50,12 @@ You can click the Preview link to take a look at your changes.
 <!--Imagem Codando-->
 <img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">
 
-  
-  # Contato📥 
+  ##
+  # Contato <!--📥--> 
  
 
   <!--Linkedin-->
   
- <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>   <!--Gmail-->  <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail"> 
-  <!--Whatsaap--> <a href="https://api.whatsapp.com/send?phone=5579988035219" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style= for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="30" width="120"></a>
-</a>
+  <!--Whatsaap--> <a href="https://api.whatsapp.com/send?phone=5579988035219" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style= for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="30" width="120"></a>  
+ <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>   <!--Gmail-->  <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail"></a>   
+
