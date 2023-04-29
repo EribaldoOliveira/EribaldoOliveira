@@ -62,17 +62,16 @@ You can click the Preview link to take a look at your changes.
 
 # Contato📥 
  
-<div align="left">
 
+
+  <!--Linkedin-->
   
  <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>
-  
+ 
+  <!--Gmail-->
 <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail">
 </a>
   
-- 📫Linkedin: http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eribaldo-oliveira-55aa6a229
-
-- 📫 Email: desenvolvedorwebst@gmail.com
 
 - Cel.: 79 9 8803 5219
 </div>
