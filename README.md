@@ -64,6 +64,9 @@ You can click the Preview link to take a look at your changes.
  
 <div align="left">
 
+  
+ <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>
+  
 - 📫Linkedin: http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eribaldo-oliveira-55aa6a229
 
 - 📫 Email: desenvolvedorwebst@gmail.com
@@ -72,6 +75,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-  eribaldo-oliveira-55aa6a229
   
-  <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>
+ 
