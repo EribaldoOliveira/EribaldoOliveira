@@ -56,15 +56,14 @@ You can click the Preview link to take a look at your changes.
 
   <!--Linkedin-->
   
- <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>   <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail">
+ <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>   <!--Gmail-->  <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png">
 </a>
- </div>
-  <!--Gmail-->
-<a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail">
-</a>
+
+
+
   
 
-- Cel.: 79 9 8803 5219
+ Cel.: 79 9 8803 5219
 
 
 
