@@ -57,21 +57,32 @@ You can click the Preview link to take a look at your changes.
   # Contato <!--📥--> 
  
   
- 
-  <!--Linkedin--> 
-  
-  <a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a> <!--Gmail-->  <a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail"></a>   
-  
-   <!--Whatsaap--> <a href="https://api.whatsapp.com/send?phone=5579988035219" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style= for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="30" width="130"></a> 
-  
-  
-******************************************
- <div> 
+  <div> 
+    
+    <!--Gmail--> 
     <a href="mailto:desenvolvedorwebst@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+    
+    <!--Whatsaap--> 
     <a href="https://api.whatsapp.com/send?phone=5579988035219" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+    
+    <!--Linkedin--> 
     <a href="https://linkedin.com/in/eribaldo-oliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
-******************************************
+  
+
+
+  <!--Linkedin--> 
+  
+    <!--<a href="https://linkedin.com/in/eribaldo-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>   -->
+  
+   <!--Gmail-->
+    <!--<a href="mailto:desenvolvedorwebst@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail"></a>    -->
+  
+   <!--Whatsaap-->   <!--<a href="https://api.whatsapp.com/send?phone=5579988035219" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style= for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="30" width="130"></a>   -->
+  
+
+  
+  
 <!-- **Languages and tools:**
 
 <p align="left">
