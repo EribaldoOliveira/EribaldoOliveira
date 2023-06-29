@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=✨Bem+Vindo+ao+meu+Perfil✨;Meu+nome+é+Eribaldo+Oliveira!)](https://git.io/typing-svg)
 
 </div>
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 #
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img height="165rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eribaldooliveira&layout=compact&langs_count=16&theme=blue-green"/>
   
 #
--->
+
 
   
 <div align="center">
