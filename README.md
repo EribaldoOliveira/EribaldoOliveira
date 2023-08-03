@@ -119,3 +119,11 @@ You can click the Preview link to take a look at your changes.
   
  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-ev&show_icons=true&locale=en&layout=compact" alt="marcos-ev" /></p>
 -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eribaldo - Oliveira}/count.svg" /></p> 
+<br>
+</div>
+
+
+
