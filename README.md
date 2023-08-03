@@ -53,7 +53,18 @@ You can click the Preview link to take a look at your changes.
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" /> Python-->
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40" />Java  -->
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="60" height="60" />PHP -->
-<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> MySql -->
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> MySql
+
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+
+### Studying in this moment:
+
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 
 <!--Imagem Codando-->
 <img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">
