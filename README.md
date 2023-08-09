@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=;✨Olá,+Sou+Eribaldo+Oliveira!+Bem+Vindo(a)+ao+meu+Perfil✨;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&background=57069F00&center=true&vCenter=true&multiline=true&width=435&height=180&lines=;✨✨✨;✨Olá,+Sou+Eribaldo+Oliveira!+Bem+Vindo(a)+ao+meu+Perfil✨;✨✨✨)](https://git.io/typing-svg)
 
 </div>
 
