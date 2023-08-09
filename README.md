@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
   <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eribaldooliveira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) </div> -->
 
-********************************************************************************************************************************************* -->
+<!-- ********************************************************************************************************************************************* -->
 
 # Habilidades <!--📖-->
 
@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
 
 <!--Imagem Codando-->
-<img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">
+<!-- <img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">  -->
 
   
   # Contato <!--📥--> 
