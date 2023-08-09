@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 #
-
+<!-- *********************************************************************************************************************************************
 <div align='center'>
 <img height="165rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eribaldooliveira&&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 <img height="165rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eribaldooliveira&layout=compact&langs_count=16&theme=blue-green"/>
@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
     
 <div align="center"> 
   <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eribaldooliveira&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) </div> -->
+
+********************************************************************************************************************************************* -->
 
 # Habilidades <!--📖-->
 
