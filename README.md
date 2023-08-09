@@ -3,7 +3,7 @@ EribaldoOliveira/EribaldoOliveira is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eribaldooliveira" alt="Eribaldo - Oliveira" /> </p> <!--Profile views -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eribaldooliveira" alt="Eribaldo - Oliveira" /> </p> <!--Profile views -->
 
 
 
