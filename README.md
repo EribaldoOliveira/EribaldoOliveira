@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ********************************************************************************************************************************************* -->
 
+<div align="center">
 # Habilidades <!--📖-->
 
 <!--  ![HTML 5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=f45430&labelColor=0D1117)&nbsp;
@@ -51,6 +52,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> Javascript
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40" />Java
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> Git
+
+</div>
 
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" /> Python-->
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40" />Java  -->
@@ -71,7 +74,8 @@ You can click the Preview link to take a look at your changes.
 <!--Imagem Codando-->
 <!-- <img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">  -->
 
-  
+
+  <div align="center">
   # Contato <!--📥--> 
 
   <div> 
@@ -79,6 +83,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://api.whatsapp.com/send?phone=5579988035219" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
     <a href="https://linkedin.com/in/eribaldo-oliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
+
   
    <!--Linkedin--> 
   
