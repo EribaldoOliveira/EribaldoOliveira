@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=180&section=header"/>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1500&background=57069F00&center=true&vCenter=true&multiline=true&width=875&height=60&lines=;✨Olá,+Sou+Eribaldo+Oliveira!+Bem+Vindo(a)+ao+meu+Perfil.✨;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1500&background=57069F00&center=true&vCenter=true&multiline=true&width=875&height=70&lines=;✨Olá,+Sou+Eribaldo+Oliveira!+Bem+Vindo(a)+ao+meu+Perfil.✨;)](https://git.io/typing-svg)
 
 </div>
 
