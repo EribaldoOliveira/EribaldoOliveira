@@ -26,11 +26,12 @@ You can click the Preview link to take a look at your changes.
 #
 
 -->
-  
+
+   <!--
 <div align="center">
 <a href="[https://github.com/EribaldoOliveira]">
 <img height="180em" src="https://streak-stats.demolab.com/?user=eribaldooliveira&theme=blue-green"/>
-</div>
+</div>  -->
 
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
