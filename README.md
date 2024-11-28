@@ -60,8 +60,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" style="margin-right: 15px;" />MySQL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 15px;" />Git
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60" style="margin-left: 35px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" 
-     alt="GitHub" width="60" height="60" style="background-color: white; padding: 5px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+     alt="GitHub" width="60" height="60" style="color: white;">
+
 
 
 <!--
