@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="filter: invert(1);" /> -->
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />GitHub-->
 
-
+<!--
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -100,7 +100,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;-->
-
+-->
 <!--Imagem Codando-->
 <!-- <img src="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" alt="https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif" class="transparent shrinkToFit" width="290" height="186">  -->
 
