@@ -60,66 +60,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" style="margin-right: 15px;" />MySQL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 15px;" />Git
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60" style="margin-left: 35px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" 
-     alt="GitHub" width="60" height="60" style="filter: invert(1);">
 
-
-
-
-<!--
-<div style="display: flex; gap: 30px; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
-    <p>PHP</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-    <p>JavaScript</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" height="45" />
-    <p>HTML</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45" />
-    <p>CSS</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70" />
-    <p>MySQL</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-    <p>Git</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60" />
-    <p>GitHub</p>
-  </div>
-</div>
--->
-
-
-
-
-
-
-<!-- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> Javascript  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60" />PHP
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>JavaScript
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>HTML
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>CSS
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> MySql
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> Git
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60" /> 
--->
 
 
 </div>
